@@ -68,3 +68,9 @@ Your final assignment will be graded by your peers who are also completing this 
 -   Task 19:  Create a line chart in the dashboard (1 pt)
     
 -   Task 20: Create a pie chart in the dashboard (1 pt)
+## The Starschema Design 
+![image](https://user-images.githubusercontent.com/67682925/159558893-6f443e62-6a39-4b68-8b07-db8e86a1520d.png)
+
+## IBM Cognos Dashboard using the created DWH
+
+![image](https://user-images.githubusercontent.com/67682925/159558548-98e2e0c2-6f1c-4b2a-9ad1-b3330e840998.png)
